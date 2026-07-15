@@ -1,4 +1,4 @@
-# ⚡ Automatic Power Factor Correction (APFC) System
+#  Automatic Power Factor Correction (APFC) System
 
 A MATLAB/Simulink-based **Automatic Power Factor Correction (APFC)** system that continuously monitors the power factor of a three-phase inductive load and automatically switches capacitor banks to improve the power factor toward a predefined target.
 
