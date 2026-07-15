@@ -98,7 +98,7 @@ Measure → Calculate PF → Compare → Switch Capacitors → Correct PF
 
 ---
 
-## 🔌 Measurement System
+##  Measurement System
 
 The Three-Phase V-I Measurement block is placed directly in the power circuit.
 
@@ -275,7 +275,7 @@ The capacitor stages should be selected carefully to prevent over-correction.
 
 ---
 
-## ⏱️ Controller Timing
+##  Controller Timing
 
 The controller operates once per electrical cycle.
 
@@ -435,7 +435,7 @@ This can make the control logic easier to understand and extend.
 
 ---
 
-### 📊 Performance Monitoring
+###  Performance Monitoring
 
 Future versions can monitor and log:
 
